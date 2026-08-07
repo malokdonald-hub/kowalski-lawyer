@@ -40,17 +40,17 @@ export default function ContactInfoSection({ data }: ContactInfoSectionProps) {
       whileInView={{ opacity: 1, x: 0 }}
       viewport={{ once: true }}
       transition={{ duration: 0.6 }}
-      className="flex flex-col gap-8"
+      className="flex flex-col gap-4"
     >
       <div>
         <h2 className="font-playfair text-2xl font-bold text-secondary sm:text-3xl">{title}</h2>
         <p className="mt-1 text-sm font-semibold text-accent">{name}</p>
       </div>
 
-      <div className="flex flex-col gap-6">
+      <div className="flex flex-col gap-4">
         <div className="flex items-start gap-3">
           <MapPin className="mt-0.5 h-5 w-5 flex-shrink-0 text-accent" stroke="currentColor" />
-          <div className="text-sm text-foreground/80 sm:text-base">
+          <div className="text-sm text-dark sm:text-base">
             <p>{address.street}</p>
             <p>{address.city}</p>
             <p>{address.country}</p>
@@ -60,7 +60,7 @@ export default function ContactInfoSection({ data }: ContactInfoSectionProps) {
         {phones.map((phone) => (
           <div key={phone.number} className="flex items-start gap-3">
             <Phone className="mt-0.5 h-5 w-5 flex-shrink-0 text-accent" stroke="currentColor" />
-            <div className="text-sm text-foreground/80 sm:text-base">
+            <div className="text-sm text-dark sm:text-base">
               <p className="font-semibold text-secondary">{phone.label}</p>
               <a href={`tel:${phone.number.replace(/\s+/g, "")}`} className="hover:text-accent">
                 {phone.number}
@@ -72,14 +72,14 @@ export default function ContactInfoSection({ data }: ContactInfoSectionProps) {
 
         <div className="flex items-start gap-3">
           <Mail className="mt-0.5 h-5 w-5 flex-shrink-0 text-accent" stroke="currentColor" />
-          <a href={`mailto:${email}`} className="text-sm text-foreground/80 hover:text-accent sm:text-base">
+          <a href={`mailto:${email}`} className="text-sm text-dark hover:text-accent sm:text-base">
             {email}
           </a>
         </div>
 
         <div className="flex items-start gap-3">
           <Clock className="mt-0.5 h-5 w-5 flex-shrink-0 text-accent" stroke="currentColor" />
-          <div className="text-sm text-foreground/80 sm:text-base">
+          <div className="text-sm text-dark sm:text-base">
             {hours.map((item) => (
               <p key={item.day}>
                 <span className="font-semibold text-secondary">{item.day}:</span> {item.time}
@@ -91,7 +91,7 @@ export default function ContactInfoSection({ data }: ContactInfoSectionProps) {
 
       <iframe
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.9!2d21.0122!3d52.2145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTLCsDEyJzUyLjIiTiAyMcKwMDAnNDQuMCJF!5e0!3m2!1spl!2spl!4v1700000000000"
-        className="h-64 w-full rounded-lg grayscale contrast-125"
+        className="min-h-[250px] h-[250px] md:h-96 w-full rounded-lg grayscale contrast-125"
         style={{ border: 0 }}
         loading="lazy"
         referrerPolicy="no-referrer-when-downgrade"

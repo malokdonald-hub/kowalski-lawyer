@@ -66,7 +66,7 @@ export default function HeroSection({ data }: HeroSectionProps) {
         <h1 className="font-playfair text-4xl font-bold text-secondary sm:text-5xl">
           {renderHeadline(headline, headlineHighlight)}
         </h1>
-        <p className="max-w-xl mx-auto text-base text-foreground/80 sm:text-lg mt-6">{subheadline}</p>
+        <p className="max-w-xl mx-auto text-base text-gray-600 sm:text-lg mt-6">{subheadline}</p>
         <div className="flex flex-col md:flex-row gap-4 justify-center items-center mt-8">
           <a
             href={primaryCtaHref}

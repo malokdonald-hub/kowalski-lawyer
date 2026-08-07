@@ -37,7 +37,7 @@ export default function BenefitsSection({ data }: BenefitsSectionProps) {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.5 }}
-          className="text-center font-playfair text-3xl font-bold text-secondary sm:text-4xl"
+          className="text-center font-playfair text-3xl font-bold text-white sm:text-4xl"
         >
           {title}
         </motion.h2>
@@ -55,7 +55,7 @@ export default function BenefitsSection({ data }: BenefitsSectionProps) {
               >
                 {Icon && <Icon className="mb-4 h-10 w-10 text-accent" stroke="currentColor" />}
                 <h3 className="font-playfair text-xl font-bold text-secondary">{item.title}</h3>
-                <p className="text-sm text-foreground/80 sm:text-base">{item.description}</p>
+                <p className="text-sm text-gray-600 sm:text-base">{item.description}</p>
               </motion.div>
             );
           })}

@@ -44,7 +44,7 @@ export default function Header() {
           <span className="font-playfair text-xl font-bold text-secondary sm:text-2xl">
             Kancelaria Kowalski
           </span>
-          <span className="text-xs text-foreground/70 sm:text-sm">Adwokat Warszawa</span>
+          <span className="text-xs text-gray-600 sm:text-sm">Adwokat Warszawa</span>
         </Link>
 
         <nav className="hidden items-center gap-8 lg:flex">
