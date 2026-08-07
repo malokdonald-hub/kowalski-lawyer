@@ -1,0 +1,61 @@
+{
+  "seo": {
+    "title": "Lawyer Warsaw – Criminal and Economic Law | Kowalski, Esq.",
+    "description": "Experienced lawyer in Warsaw. Protection in criminal and white-collar criminal cases. Over 15 years of practice. Confidential consultation."
+  },
+  "hero": {
+    "headline": "Strategic defence in criminal and white-collar criminal cases",
+    "headlineHighlight": "strategic defence",
+    "subheadline": "Over 15 years of experience in the legal protection of entrepreneurs and individuals in Warsaw. Effective representation at every stage of the proceedings – from the investigation through to the highest court.",
+    "primaryCta": "Schedule a free consultation",
+    "secondaryCta": "Call now",
+    "secondaryCtaHref": "tel:+48221234567"
+  },
+  "stats": [
+    { "value": "15+", "unit": "years of experience" },
+    { "value": "800+", "unit": "criminal cases" },
+    { "value": "94%", "unit": "success rate in court" },
+    { "value": "24h", "unit": "response time" }
+  ],
+  "services": {
+    "title": "How I can help",
+    "items": [
+      { "icon": "Gavel", "title": "Criminal law", "description": "Comprehensive defence at the pre-trial and trial stages. Representation of suspects and defendants in cases concerning offences against life, health, property, and sexual freedom. Protection of rights at every stage of criminal proceedings." },
+      { "icon": "Briefcase", "title": "Economic offences", "description": "Protection of entrepreneurs, board members, and directors in cases involving fiscal offences, economic fraud, mismanagement, and money laundering. Preventive measures and representation before prosecutors and courts." },
+      { "icon": "ShieldCheck", "title": "Compliance advisory", "description": "Legal audit of internal procedures, assessment of criminal risk in business transactions, preparation of legal opinions, and protection against criminal liability for board members." },
+      { "icon": "Clock", "title": "Assistance at the detention stage", "description": "Immediate legal assistance in the event of detention, search, or 48-hour police custody. Presence during interrogations, filing motions for release, and securing rights at the earliest stage of proceedings." }
+    ]
+  },
+  "benefits": {
+    "title": "Why clients trust me",
+    "items": [
+      { "icon": "Landmark", "title": "Prosecutor's experience", "description": "Years of work in the prosecutor's office gave me insight into both sides of the criminal process. I know how the prosecution operates – and I know how to effectively defend against it." },
+      { "icon": "Users", "title": "800+ successful cases", "description": "Extensive trial experience in cases of varying complexity – from traffic misdemeanours to multi-threaded white-collar criminal cases. Each case receives an individual defence strategy." },
+      { "icon": "Building", "title": "Ongoing corporate representation", "description": "Legal services for enterprises in the financial, construction, trade, and technology sectors. I safeguard business interests at the criminal and fiscal-criminal level." },
+      { "icon": "Languages", "title": "Service in Polish and English", "description": "Cases involving foreign nationals, bilingual documentation, cooperation with foreign law firms. Representation of clients from the United Kingdom, Germany, the USA, and other countries." }
+    ]
+  },
+  "testimonials": {
+    "title": "What clients say",
+    "items": [
+      { "quote": "Kowalski, Esq. took over my case at the pre-trial stage and secured its dismissal. Professionalism, composure, and full commitment at every hearing. I recommend him to anyone who genuinely needs an effective defence counsel.", "author": "Marek W., entrepreneur", "caseType": "White-collar criminal case" },
+      { "quote": "I was detained at night and didn't know what to do. Kowalski, Esq. arrived at the police station within an hour. Thanks to his intervention I was released, and the case was subsequently dismissed. I cannot imagine better defence in such a situation.", "author": "Tomasz R., individual client", "caseType": "Assistance after detention" },
+      { "quote": "Representation by Kowalski, Esq. in a criminal case against a board member of our company. Meticulous preparation, in-depth knowledge of commercial and criminal law. An acquittal – we need more lawyers like this in Warsaw.", "author": "Anna K., CFO", "caseType": "Board member defence" }
+    ]
+  },
+  "pricingPreview": {
+    "title": "Transparent terms of cooperation",
+    "description": "The first consultation is free. Learn the terms before making a decision.",
+    "linkText": "View full pricing",
+    "linkUrl": "/uslugi"
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "items": [
+      { "question": "How much does the first consultation cost?", "answer": "The first consultation is free. You will present your situation, and I will assess the prospects of the case and propose a strategy. Only after the consultation do you decide whether to proceed with further cooperation." },
+      { "question": "How quickly can a lawyer take on a case?", "answer": "In urgent cases – detention, search, 48-hour custody – I am available 24 hours a day. In standard cases, I take the first steps within 24 hours of contact." },
+      { "question": "Do you handle cases outside Warsaw?", "answer": "Yes. Although my office is based in Warsaw, I handle cases throughout the country. In white-collar criminal cases I frequently appear before prosecutors' offices and courts in other cities." },
+      { "question": "Can I contact the lawyer outside business hours?", "answer": "In criminal cases the situation can change at any moment. Clients I work with have my direct phone number and can reach me in urgent situations. Criminal cases do not wait until morning." }
+    ]
+  }
+}

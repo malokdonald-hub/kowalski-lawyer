@@ -1,0 +1,139 @@
+{
+  "seo": {
+    "title": "Kontakt – Adwokat Warszawa | mec. Tomasz Kowalski",
+    "description": "Kancelaria Adwokacka mec. Tomasz Kowalski. Warszawa, ul. Marszałkowska 42/15. Tel: +48 22 123 45 67. Bezpłatna konsultacja."
+  },
+  "hero": {
+    "headline": "Skontaktuj się ze mną",
+    "headlineHighlight": "skontaktuj się",
+    "subheadline": "Pierwsza konsultacja jest bezpłatna. Opisz swoją sytuację, a ja ocenię szanse i zaproponuję strategię działania. Odpowiadam w ciągu 24 godzin – w sprawach nagłych znacznie szybciej.",
+    "primaryCta": "Umów bezpłatną konsultację",
+    "secondaryCta": "Zadzwoń: +48 22 123 45 67"
+  },
+  "office": {
+    "title": "Kancelaria Adwokacka",
+    "name": "mec. Tomasz Kowalski",
+    "address": {
+      "street": "ul. Marszałkowska 42/15",
+      "city": "00-648 Warszawa",
+      "country": "Polska"
+    },
+    "phones": [
+      {
+        "label": "Telefon stacjonarny",
+        "number": "+48 22 123 45 67",
+        "description": "Poniedziałek–Piątek, 9:00–18:00"
+      },
+      {
+        "label": "Telefon mobilny (pilne sprawy)",
+        "number": "+48 600 123 456",
+        "description": "Dostępny 24/7 w sprawach nagłych – zatrzymanie, przeszukanie, wezwanie"
+      }
+    ],
+    "email": "kontakt@kowalski-adwokat.pl",
+    "whatsapp": "+48 600 123 456",
+    "hours": [
+      {
+        "day": "Poniedziałek – Piątek",
+        "time": "9:00 – 18:00"
+      },
+      {
+        "day": "Sobota, Niedziela i święta",
+        "time": "tylko w sprawach nagłych (telefon mobilny)"
+      }
+    ]
+  },
+  "form": {
+    "title": "Opisz swoją sprawę",
+    "description": "Wypełnij poniższy formularz, a ja skontaktuję się z Tobą w ciągu 24 godzin. W sprawach nagłych zadzwoń bezpośrednio na telefon mobilny.",
+    "fields": [
+      {
+        "name": "fullName",
+        "label": "Imię i nazwisko",
+        "type": "text",
+        "required": true,
+        "placeholder": "Jan Kowalski"
+      },
+      {
+        "name": "phone",
+        "label": "Numer telefonu",
+        "type": "tel",
+        "required": true,
+        "placeholder": "+48 600 000 000"
+      },
+      {
+        "name": "email",
+        "label": "Adres e-mail",
+        "type": "email",
+        "required": true,
+        "placeholder": "jan@example.com"
+      },
+      {
+        "name": "caseType",
+        "label": "Temat sprawy",
+        "type": "select",
+        "required": true,
+        "options": [
+          "Prawo karne – obrona osób fizycznych",
+          "Prawo karne gospodarcze – ochrona biznesu",
+          "Przestępstwa skarbowe i podatkowe",
+          "Pomoc po zatrzymaniu / przeszukaniu",
+          "Doradztwo compliance",
+          "Inne"
+        ]
+      },
+      {
+        "name": "description",
+        "label": "Krótki opis sprawy",
+        "type": "textarea",
+        "required": false,
+        "placeholder": "Opisz krótko okoliczności sprawy – co się stało, na jakim etapie jest postępowanie, czego potrzebujesz. Nie podawaj pełnych nazwisk ani danych osób trzecich."
+      }
+    ],
+    "submitButtonText": "Wyślij wiadomość",
+    "disclaimer": "Twoje dane są chronione zgodnie z polityką prywatności i RODO. Odpowiadamy w ciągu 24 godzin. Formularz nie stanowi porady prawnej.",
+    "successMessage": "Dziękuję za wiadomość. Skontaktuję się z Tobą w ciągu 24 godzin.",
+    "errorMessage": "Wystąpił błąd. Proszę spróbować ponownie lub zadzwonić pod numer +48 22 123 45 67."
+  },
+  "map": {
+    "title": "Jak dojechać",
+    "description": "Kancelaria znajduje się w centrum Warszawy, w pobliżu stacji metra Politechnika. Dojazd komunikacją miejską lub samochodem – w pobliżu znajdują się parkingi płatne.",
+    "directions": [
+      {
+        "icon": "Building",
+        "title": "Metrem",
+        "description": "Stacja Politechnika (linia M1), 3 minuty pieszo od kancelarii. Wyjście w kierunku ul. Marszałkowskiej."
+      },
+      {
+        "icon": "Globe",
+        "title": "Autobusem / tramwajem",
+        "description": "Przystanki: Politechnika (autobusy 128, 175, 222) lub Plac Zbawiciela (tramwaje 7, 9, 25)."
+      },
+      {
+        "icon": "Clock",
+        "title": "Samochodem",
+        "description": "Parking podziemny w centrum handlowym Plac Unii Lubelskiej (200 m) lub parking uliczny przy ul. Nowogrodzkiej."
+      }
+    ]
+  },
+  "quickContact": {
+    "title": "Szybki kontakt",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "title": "Prywatność gwarantowana",
+        "description": "Wszystkie informacje, które mi przekazujesz, chronię tajemnicą adwokacką. Nie udostępniam danych osobom trzecim ani organom bez Twojej zgody – z wyjątkiem sytuacji przewidzianych prawem."
+      },
+      {
+        "icon": "Clock",
+        "title": "Odpowiadam szybko",
+        "description": "W standardowych sprawach odpowiadam w ciągu 24 godzin. W sprawach nagłych – zatrzymanie, przeszukanie, wezwanie – dostępny jest telefon mobilny 24/7."
+      },
+      {
+        "icon": "Heart",
+        "title": "Bezpłatna pierwsza konsultacja",
+        "description": "Pierwsze spotkanie jest bezpłatne i niezobowiązujące. Chcę, żebyś mógł poznać mnie i mój sposób pracy przed podjęciem decyzji o współpracy."
+      }
+    ]
+  }
+}

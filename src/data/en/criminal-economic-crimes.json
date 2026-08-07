@@ -1,0 +1,165 @@
+{
+  "seo": {
+    "title": "White-Collar Criminal Law Warsaw – Lawyer | Kowalski, Esq.",
+    "description": "Protection against economic fraud, fiscal offences, and mismanagement. Business lawyer in Warsaw. 15+ years of experience."
+  },
+  "hero": {
+    "headline": "Defence in criminal and white-collar criminal cases",
+    "headlineHighlight": "defence",
+    "subheadline": "I specialise in the legal protection of entrepreneurs, board members, and individuals in the most complex criminal cases. From detention by the prosecutor through to the judgment of the second-instance court – I build defence strategies that safeguard your freedom, assets, and reputation.",
+    "primaryCta": "Schedule a free consultation",
+    "secondaryCta": "Call: +48 22 123 45 67"
+  },
+  "criminalLaw": {
+    "title": "Criminal law – defence of individuals",
+    "description": "Everyone has the right to defence – and I exercise that right with full commitment, regardless of the nature and gravity of the alleged offences. My prosecutorial experience enables me to anticipate the prosecution's actions and effectively counter them. I represent clients at every stage of criminal proceedings, ensuring their rights are not violated.",
+    "items": [
+      {
+        "icon": "Gavel",
+        "title": "Property offences",
+        "description": "Theft, robbery, fraud, burglary, misappropriation. I represent clients at the interrogation stage, prepare the line of defence, and file evidentiary and witness motions. In first-offence cases I frequently achieve dismissal of charges or a non-custodial sentence."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Offences against life and health",
+        "description": "Assault, bodily harm, criminal threats, stalking, domestic violence. Each of these cases requires an individual approach and a thorough analysis of the evidence. I cooperate with forensic medical experts and psychologists when the case requires it."
+      },
+      {
+        "icon": "Users",
+        "title": "Traffic offences",
+        "description": "Causing a road traffic accident, driving under the influence of alcohol, driving without a licence. Representation before courts and prosecutors, motions for conditional discontinuance of proceedings, defence against disqualification from driving."
+      },
+      {
+        "icon": "Lock",
+        "title": "Drug offences",
+        "description": "Possession, supply, cultivation, and trafficking of controlled substances. I apply for pre-trial measures other than provisional detention, analyse the lawfulness of detention and search, and challenge laboratory test results."
+      },
+      {
+        "icon": "Clock",
+        "title": "Misdemeanours",
+        "description": "Penalty notices, offences against property, offences against public order. Representation in penalty proceedings and before misdemeanor courts. I frequently achieve dismissal of the case without the imposition of a financial penalty."
+      },
+      {
+        "icon": "Heart",
+        "title": "Fiscal misdemeanours",
+        "description": "Failure to file returns, accounting irregularities, late tax payments. Defence against sanctions, negotiations with the tax authority, representation before the administrative court in fiscal-criminal cases."
+      }
+    ]
+  },
+  "economicCrimes": {
+    "title": "White-collar criminal law – business protection",
+    "description": "Economic offences represent a specific category of cases that require a blend of legal, financial, and business competencies. A board member may incur criminal liability for acts or omissions within the company – even if they were unaware of the irregularities. My task is not only courtroom defence but also securing the company's interests and minimising criminal risk going forward. I serve enterprises from the financial, construction, trade, and technology sectors.",
+    "items": [
+      {
+        "icon": "Briefcase",
+        "title": "Economic fraud",
+        "description": "Document forgery, loan fraud, unfair competition, pyramid schemes. Transaction analysis, cooperation with forensic accountants, building a defence line based on business documentation. Between 2023 and 2025 I represented over 40 entrepreneurs in economic fraud cases, achieving dismissal or acquittal in 78% of cases."
+      },
+      {
+        "icon": "Receipt",
+        "title": "Fiscal and tax offences",
+        "description": "Fiscal penalties, offences against fiscal interests, tax evasion, VAT carousel schemes. Defence in fiscal-criminal proceedings, representation before tax authorities, negotiations with law enforcement agencies. I cooperate with tax advisors to ensure full protection of the client's interests."
+      },
+      {
+        "icon": "Building",
+        "title": "Mismanagement and damage to company assets",
+        "description": "Article 296 of the Criminal Code – acting to the detriment of the company, mismanagement, exceeding authority. These charges most commonly affect board members, supervisory board members, and liquidators. I analyse resolutions, business decisions, and financial documentation to demonstrate the absence of intent to cause harm."
+      },
+      {
+        "icon": "Globe",
+        "title": "Money laundering",
+        "description": "Article 299 of the Criminal Code – concealing the origin of financial assets, transferring funds from illegal sources. Defence in international cases, cooperation with foreign law firms, analysis of financial transactions and payment chains."
+      },
+      {
+        "icon": "Award",
+        "title": "Protection of board members",
+        "description": "Representation of presidents, directors, and board members in criminal proceedings. I cooperate with in-house counsel to secure the company's interests while simultaneously protecting the accused individual. I prepare legal opinions that reduce criminal risk going forward."
+      },
+      {
+        "icon": "Lock",
+        "title": "Compliance advisory and prevention",
+        "description": "Assessment of criminal risk in ongoing operations, audit of internal procedures, training for management and employees. I help entrepreneurs build safeguard systems that, in the event of an inspection or proceedings, serve as evidence of good faith and due diligence."
+      }
+    ]
+  },
+  "process": {
+    "title": "How cooperation works",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Free consultation",
+        "description": "You will describe the situation and show me the documents, and I will assess the prospects and propose a strategy. The meeting lasts up to 60 minutes and does not commit you to engaging my services."
+      },
+      {
+        "step": 2,
+        "title": "Case file analysis",
+        "description": "I review the case file, analyse the evidence, and identify the weak points of the prosecution. I prepare a written opinion with recommendations."
+      },
+      {
+        "step": 3,
+        "title": "Defence strategy",
+        "description": "Based on the analysis, I prepare a tailored defence strategy. We define objectives, timelines, and evidentiary measures. You approve the action plan."
+      },
+      {
+        "step": 4,
+        "title": "Execution and representation",
+        "description": "I implement the strategy at every stage: interrogations, evidentiary motions, hearings, negotiations with the prosecutor. I keep you informed of every step."
+      },
+      {
+        "step": 5,
+        "title": "Case conclusion",
+        "description": "After the proceedings conclude, I prepare a summary, discuss the judgment, and advise on any possibilities for appeal. Where necessary, I represent you in the second instance."
+      }
+    ]
+  },
+  "whyMe": {
+    "title": "Why my defence is effective",
+    "items": [
+      {
+        "icon": "Award",
+        "title": "Experience on both sides",
+        "description": "For 5 years I worked at the Regional Prosecutor's Office in Warsaw. I know the procedures, investigative methods, and weak points of the prosecution from the inside. This allows me to build a defence that strikes at the key elements of the indictment."
+      },
+      {
+        "icon": "Users",
+        "title": "Team of experts",
+        "description": "In cases requiring specialist knowledge, I cooperate with forensic accountants, auditors, IT forensic specialists, and psychologists. Each case receives support at the level its complexity demands."
+      },
+      {
+        "icon": "Building",
+        "title": "Understanding of business",
+        "description": "I understand the specifics of running a business in Poland. I grasp the business context of the decisions that are the subject of charges and can effectively present that context in court."
+      },
+      {
+        "icon": "Clock",
+        "title": "24/7 availability",
+        "description": "In criminal cases, time matters. Detention, search, summons – these events do not wait until morning. Clients have my direct number and can contact me in any situation."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions about criminal defence",
+    "items": [
+      {
+        "question": "When should I contact a lawyer?",
+        "answer": "The sooner, the better. The best moment is immediately upon receiving a summons to the police or prosecutor's office. If you have been detained – call immediately, I can come to the scene. Early involvement of a lawyer often determines the course of the entire case."
+      },
+      {
+        "question": "Can a lawyer visit me in detention?",
+        "answer": "Yes. As an advocate, I have the right to access my client in pre-trial detention without the prosecutor's consent. Visits to the detention centre are a priority – we establish the line of defence, prepare motions, and ensure contact with family."
+      },
+      {
+        "question": "Can I change my lawyer during the case?",
+        "answer": "Yes, you have the right to change your defence counsel at any stage of the proceedings. If you are dissatisfied with the defence to date, I can take over the case and review the case file. The sooner we do this, the more time I will have to prepare."
+      },
+      {
+        "question": "What if the prosecutor proposes a voluntary submission to a penalty?",
+        "answer": "Voluntary submission to a penalty is one option, but not always the best one. Before making a decision, I will analyse the case file and assess whether the prosecutor's proposal is advantageous. Sometimes it is better to challenge the charges and seek an acquittal, even if it requires a longer proceeding."
+      },
+      {
+        "question": "What are the consequences of a conviction for a board member?",
+        "answer": "A conviction for an intentional offence may result in disqualification from serving on management boards, supervisory boards, and audit committees. It may also affect the company's creditworthiness and relationships with business partners. That is why defence in white-collar criminal cases is an investment in your entire professional career."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "nav": [
+    { "label": "Główna", "href": "/" },
+    { "label": "Usługi", "href": "/uslugi" },
+{ "label": "Sprawy gospodarcze", "href": "/przestepstwa-gospodarcze" },
+    { "label": "O kancelarii", "href": "/o-kancelarii" },
+{ "label": "Kontakt", "href": "/kontakt" }
+  ],
+  "footer": {
+    "logo": {
+      "title": "Kancelaria Kowalski",
+      "subtitle": "Adwokat Warszawa"
+    },
+    "description": "Kompleksowa ochrona prawna w sprawach karnych i karno-gospodarczych. Ponad 15 lat doświadczenia w reprezentacji klientów indywidualnych i biznesowych w Warszawie i całej Polsce.",
+    "columns": [
+      {
+        "title": "Nawigacja",
+        "links": [
+          { "label": "Główna", "href": "/" },
+          { "label": "Usługi", "href": "/uslugi" },
+          { "label": "Przestępstwa gospodarcze", "href": "/przestepstwa-gospodarcze" },
+          { "label": "O kancelarii", "href": "/o-kancelarii" },
+          { "label": "Kontakt", "href": "/kontakt" }
+        ]
+      }
+    ],
+    "contact": {
+      "phones": ["+48 22 123 45 67", "+48 600 123 456"],
+      "email": "kontakt@kowalski-adwokat.pl",
+      "address": "ul. Marszałkowska 42/15, 00-648 Warszawa"
+    },
+    "social": {
+      "facebook": "https://facebook.com",
+      "instagram": "https://instagram.com"
+    },
+    "copyright": "© 2026 Kancelaria Kowalski. Wszelkie prawa zastrzeżone."
+  },
+  "cta": {
+    "title": "Potrzebujesz ochrony prawnej?",
+    "description": "Pierwsza konsultacja jest bezpłatna. Skontaktuj się już dziś i poznaj swoje możliwości.",
+    "primaryButton": "Umów konsultację",
+    "secondaryButton": "Zadzwoń: +48 22 123 45 67",
+    "phone": "+48 22 123 45 67"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "seo": {
+    "title": "Legal Fees – Criminal Law Warsaw | Kowalski, Esq.",
+    "description": "Transparent legal service fees. Criminal and white-collar criminal law in Warsaw. Free consultation. From 400 PLN/h."
+  },
+  "hero": {
+    "headline": "Transparent terms of cooperation",
+    "headlineHighlight": "transparent",
+    "subheadline": "Legal fees tailored to the type and complexity of the case. The first consultation is free – get to know me and make a decision without any commitment. All costs are agreed before work begins.",
+    "primaryCta": "Schedule a free consultation",
+    "secondaryCta": "Call: +48 22 123 45 67"
+  },
+  "consultation": {
+    "title": "Initial consultation",
+    "description": "The first meeting is a free analysis of your legal situation. You will present the circumstances of the case, and I will assess the prospects, identify possible lines of defence, and propose a strategy. The meeting lasts up to 60 minutes and does not bind you to any obligations.",
+    "price": "Free",
+    "duration": "Up to 60 minutes",
+    "includes": [
+      "Analysis of the circumstances of the case",
+      "Assessment of prospects and legal risks",
+      "Preliminary defence strategy proposal",
+      "Answers to the client's questions"
+    ]
+  },
+  "pricing": {
+    "title": "Hourly rates and service packages",
+    "description": "The rates below are effective from August 2026 and apply to cases conducted within Warsaw. For cases requiring travel outside the city, a travel surcharge is agreed individually. The final price depends on the complexity of the case and is always confirmed in writing before work commences.",
+    "plans": [
+      {
+        "name": "In-depth consultation",
+        "price": "400 PLN",
+        "period": "per meeting up to 90 min",
+        "features": [
+          "Detailed document analysis",
+          "Written legal opinion",
+          "Action plan with timelines",
+          "Evidentiary recommendations"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Representation – pre-trial stage",
+        "price": "from 6,000 PLN",
+        "period": "per stage of proceedings",
+        "features": [
+          "Presence during interrogations",
+          "Case study and file analysis",
+          "Evidentiary and procedural motions",
+          "Contact with the prosecutor",
+          "Motions for release / protective measures",
+          "Updates on the progress of the case"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Representation – first-instance court",
+        "price": "from 10,000 PLN",
+        "period": "per stage of proceedings",
+        "features": [
+          "Comprehensive court defence",
+          "Trial strategy preparation",
+          "All evidentiary motions",
+          "Representation at hearings",
+          "Closing arguments and submissions",
+          "Appellate opinion included"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "White-collar criminal law – investigation stage",
+        "price": "from 15,000 PLN",
+        "period": "per stage of proceedings",
+        "features": [
+          "Business documentation analysis",
+          "Cooperation with forensic accountants",
+          "Board member representation",
+          "Motions to secure evidence",
+          "Economic defence strategy",
+          "Negotiations with the prosecutor"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "White-collar criminal law – court",
+        "price": "from 25,000 PLN",
+        "period": "per stage of proceedings",
+        "features": [
+          "Full court representation",
+          "Cooperation with experts",
+          "Preparation of specialist opinions",
+          "All hearings up to judgment",
+          "Protection of the company's interests",
+          "Closing arguments and appeal"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Hourly rate – commercial cases",
+        "price": "800 PLN",
+        "period": "per hour",
+        "features": [
+          "Flexible billing",
+          "Advisory work and opinions",
+          "Compliance audits",
+          "Urgent situation support",
+          "Monthly time reports"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Assistance after detention",
+        "price": "2,500 PLN",
+        "period": "per intervention up to 6 hours",
+        "features": [
+          "Travel to the police station / court",
+          "Presence during interrogation",
+          "Motion for release",
+          "Urgent rights protection",
+          "Family contact on request"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Misdemeanour cases",
+        "price": "from 1,500 PLN",
+        "period": "per case",
+        "features": [
+          "Representation in the misdemeanor court",
+          "Analysis of the notice of offence",
+          "Defence line preparation",
+          "Evidentiary motions and witnesses",
+          "Case conclusion by dismissal"
+        ],
+        "recommended": false
+      }
+    ]
+  },
+  "paymentInfo": {
+    "title": "Payment terms",
+    "items": [
+      {
+        "icon": "Receipt",
+        "title": "Advance payment on commencement",
+        "description": "Before taking any action we sign an agreement that precisely defines the scope of work, the fee, and the payment schedule. The advance is typically 30-50% of the agreed amount."
+      },
+      {
+        "icon": "Lock",
+        "title": "Instalment option",
+        "description": "For long-running cases I offer the possibility of instalment payments. Details are agreed individually depending on the type and expected duration of the case."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Transparency guarantee",
+        "description": "No hidden costs. Any additional work beyond the agreement is agreed and approved before it is carried out. You have the right to know what you are paying for."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions about costs",
+    "items": [
+      {
+        "question": "Are the prices negotiable?",
+        "answer": "Yes. The final rate depends on the complexity of the case, the volume of evidentiary material, and the expected duration of the proceedings. The prices listed in the schedule are indicative ranges – a precise quote is prepared after the free consultation."
+      },
+      {
+        "question": "What if the case concludes sooner than expected?",
+        "answer": "If the case concludes before the anticipated deadline, I proportionally reduce the fee. You are billed for the work actually performed, not for the estimated time."
+      },
+      {
+        "question": "Are court and expert costs included?",
+        "answer": "No. Court fees, stamp duties, and expert and translator fees are covered by the client separately. Before commencing the case I estimate and communicate all anticipated ancillary costs."
+      },
+      {
+        "question": "Do you issue VAT invoices?",
+        "answer": "Yes. The practice is an active VAT taxpayer. I issue invoices for all services. For business clients, it may be possible to deduct the cost of economic defence as a tax-deductible expense."
+      },
+      {
+        "question": "What about an appeal?",
+        "answer": "If the case requires an appeal, the cost of second-instance representation is agreed separately. The prices in the schedule apply to one stage of proceedings. In court packages, the first appellate opinion is included in the price."
+      }
+    ]
+  }
+}

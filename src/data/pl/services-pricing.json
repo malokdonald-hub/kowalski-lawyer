@@ -1,0 +1,183 @@
+{
+  "seo": {
+    "title": "Cennik usług adwokackich – Prawo karne Warszawa | mec. Kowalski",
+    "description": "Przejrzyste ceny usług adwokackich. Prawo karne i karne gospodarcze w Warszawie. Konsultacja bezpłatna. Od 400 PLN/h."
+  },
+  "hero": {
+    "headline": "Przejrzyste warunki współpracy",
+    "headlineHighlight": "przejrzyste",
+    "subheadline": "Ceny usług adwokackich dostosowane do rodzaju i złożoności sprawy. Pierwsza konsultacja bezpłatna – poznaj mnie i podejmij decyzję bez zobowiązań. Wszystkie koszty ustalamy przed rozpoczęciem pracy.",
+    "primaryCta": "Umów bezpłatną konsultację",
+    "secondaryCta": "Zadzwoń: +48 22 123 45 67"
+  },
+  "consultation": {
+    "title": "Konsultacja wstępna",
+    "description": "Pierwsze spotkanie to bezpłatna analiza Twojej sytuacji prawnej. Przedstawisz mi okoliczności sprawy, a ja ocenię szanse, wskazę możliwe ścieżki obrony i zaproponuję strategię działania. Spotkanie trwa do 60 minut i nie wiąże Cię z żadnymi zobowiązaniami.",
+    "price": "Bezpłatna",
+    "duration": "Do 60 minut",
+    "includes": [
+      "Analiza okoliczności sprawy",
+      "Ocena szans i ryzyk prawnych",
+      "Wstępna propozycja strategii obrony",
+      "Odpowiedzi na pytania klienta"
+    ]
+  },
+  "pricing": {
+    "title": "Stawki godzinowe i pakiety usług",
+    "description": "Poniższe stawki obowiązują od sierpnia 2026 roku i dotyczą spraw prowadzonych na terenie Warszawy. W sprawach wymagających dojazdów poza miasto stosuję stawkę dojazdową ustalaną indywidualnie. Ostateczna cena zależy od złożoności sprawy i jest zawsze potwierdzana pisemnie przed rozpoczęciem pracy.",
+    "plans": [
+      {
+        "name": "Konsultacja detailedna",
+        "price": "400 PLN",
+        "period": "za spotkanie do 90 min",
+        "features": [
+          "Szczegółowa analiza dokumentów",
+          "Pisemna opinia prawna",
+          "Plan działania z terminami",
+          "Rekomendacje dowodowe"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Reprezentacja – postępowanie przygotowawcze",
+        "price": "od 6 000 PLN",
+        "period": "za etap postępowania",
+        "features": [
+          "Obecność podczas przesłuchań",
+          "Studium sprawy i analiza akt",
+          "Wnioski dowodowe i procesowe",
+          "Kontakt z prokuratorem",
+          "Wnioski o zwolnienie / zabezpieczenie",
+          "Informowanie o przebiegu sprawy"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Reprezentacja – sąd I instancji",
+        "price": "od 10 000 PLN",
+        "period": "za etap postępowania",
+        "features": [
+          "Kompleksowa obrona w sądzie",
+          "Przygotowanie strategii procesowej",
+          "Wszelkie wnioski dowodowe",
+          "Reprezentacja na rozprawach",
+          "Mowy końcowe i konkluzje",
+          "Opinia odwoławcza w cenie"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Prawo karne gospodarcze – etap śledztwa",
+        "price": "od 15 000 PLN",
+        "period": "za etap postępowania",
+        "features": [
+          "Analiza dokumentacji biznesowej",
+          "Współpraca z biegłymi księgowymi",
+          "Reprezentacja członka zarządu",
+          "Wnioski o zabezpieczenie dowodów",
+          "Strategia obrony gospodarczej",
+          "Negocjacje z prokuraturą"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Prawo karne gospodarcze – sąd",
+        "price": "od 25 000 PLN",
+        "period": "za etap postępowania",
+        "features": [
+          "Pełna reprezentacja w sądzie",
+          "Współpraca z ekspertami",
+          "Przygotowanie opinii specjalistycznych",
+          "Wszystkie rozprawy do wyroku",
+          "Zabezpieczenie interesów firmy",
+          "Mowy końcowe i apelacja"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Stawka godzinowa – sprawy gospodarcze",
+        "price": "800 PLN",
+        "period": "za godzinę",
+        "features": [
+          "Elastyczne rozliczanie",
+          "Sprawy doradcze i opinie",
+          "Audyty compliance",
+          "Wsparcie w nagłych sytuacjach",
+          "Raporty czasowe co miesiąc"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Pomoc po zatrzymaniu",
+        "price": "2 500 PLN",
+        "period": "za interwencję do 6 godzin",
+        "features": [
+          "Dojazd na komendę / do sądu",
+          "Obecność podczas przesłuchania",
+          "Wniosek o zwolnienie",
+          "Pilne zabezpieczenie praw",
+          "Kontakt z rodziną na żądanie"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Sprawy wykroczeniowe",
+        "price": "od 1 500 PLN",
+        "period": "za sprawę",
+        "features": [
+          "Reprezentacja w sądzie wykroczeń",
+          "Analiza zawiadomienia",
+          "Przygotowanie linii obrony",
+          "Wnioski dowodowe i świadkowie",
+          "Zakończenie sprawy umorzeniem"
+        ],
+        "recommended": false
+      }
+    ]
+  },
+  "paymentInfo": {
+    "title": "Warunki płatności",
+    "items": [
+      {
+        "icon": "Receipt",
+        "title": "Zaliczka przy rozpoczęciu",
+        "description": "Przed podjęciem działań podpisujemy umowę, w której precyzyjnie określamy zakres prac, wynagrodzenie i harmonogram. Zaliczka wynosi zazwyczaj 30-50% ustalonej kwoty."
+      },
+      {
+        "icon": "Lock",
+        "title": "Rozliczenie ratalne",
+        "description": "W sprawach długotrwałych oferuję możliwość rozliczenia ratalnego. Szczegóły ustalamy indywidualnie w zależności od rodzaju i przewidywanego czasu trwania sprawy."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Gwarancja przejrzystości",
+        "description": "Żadnych ukrytych kosztów. Każda dodatkowa praca poza umową jest ustalana i zatwierdzana przed wykonaniem. Masz prawo znać, za co płacisz."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pytania o koszty",
+    "items": [
+      {
+        "question": "Czy ceny są negocjowalne?",
+        "answer": "Tak. Ostateczna stawka zależy od złożoności sprawy, ilości materiału dowodowego i przewidywanego czasu trwania postępowania. Ceny podane w cenniku to widełki orientacyjne – precyzyjną wycenę przygotowuję po bezpłatnej konsultacji."
+      },
+      {
+        "question": "Co jeśli sprawa zakończy się szybciej?",
+        "answer": "Jeśli sprawa zakończy się przed przewidywanym terminem, proporcjonalnie pomniejszam wynagrodzenie. Rozliczamy się za faktycznie wykonaną pracę, a nie za założony czas."
+      },
+      {
+        "question": "Czy koszty sądu i ekspertów są wliczone?",
+        "answer": "Nie. Koszty sądowe, opłaty skarbowe, wynagrodzenia biegłych i tłumaczy są pokrywane przez klienta odrębnie. Przed rozpoczęciem sprawy szacuję i komunikuję wszystkie przewidywane koszty poboczne."
+      },
+      {
+        "question": "Czy wystawiaj faktury VAT?",
+        "answer": "Tak. Kancelaria jest czynnym podatnikiem VAT. Wystawiam faktury za wszystkie usługi. Dla klientów biznesowych istnieje możliwość odliczenia kosztów obrony gospodarczej jako kosztu uzyskania przychodu."
+      },
+      {
+        "question": "Co w przypadku apelacji?",
+        "answer": "Jeśli sprawa wymaga wniesienia apelacji, koszt reprezentacji w II instancji ustalamy odrębnie. Ceny z cennika dotyczą jednego etapu postępowania. W pakietach sądowych pierwsza opinia odwoławcza jest wliczona w cenę."
+      }
+    ]
+  }
+}

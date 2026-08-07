@@ -1,0 +1,168 @@
+{
+  "seo": {
+    "title": "O kancelarii – Adwokat Tomasz Kowalski | Warszawa",
+    "description": "Adwokat Tomasz Kowalski – 15+ lat doświadczenia w prawie karnym i gospodarczym. Były prokurator. Wykładowca UW. Warszawa."
+  },
+  "hero": {
+    "headline": "Tomasz Kowalski – adwokat, który zna obie strony procesu",
+    "headlineHighlight": "zna obie strony",
+"subheadline": "Przez 5 lat pracowałem jako prokurator w Prokuraturze Okręgowej w Warszawie, a od ponad 15 lat prowadzę własną kancelarię adwokacką. Chronię wolność, majątek i reputację przedsiębiorców oraz osób fizycznych. To unikalne doświadczenie po obu stronach barykady pozwala mi budować skuteczną obronę, opartą na dogłębnym zrozumieniu mechanizmów oskarżenia. Jestem również prelegentem na ponad 30 konferencjach prawnych.",
+    "primaryCta": "Umów bezpłatną konsultację",
+    "secondaryCta": "Zadzwoń: +48 22 123 45 67"
+  },
+  "bio": {
+    "name": "mec. Tomasz Kowalski",
+    "role": "Adwokat / Radca prawny specjalizujący się w prawie karnym i karno-gospodarczym",
+    "imageAlt": "Adwokat Tomasz Kowalski – Kancelaria Adwokacka Warszawa",
+    "summary": "Jestem adwokatem wpisanym na listę Okręgowej Rady Adwokackiej w Warszawie. Specjalizuję się w obronie w sprawach karnych i karno-gospodarczych, ze szczególnym uwzględnieniem ochrony przedsiębiorców i członków zarządów. Moją misją jest zapewnienie każdemu klientowi rzetelnej, zaangażowanej i skutecznej obrony – bez względu na wagę zarzucanych czynów.",
+    "education": [
+      {
+        "degree": "Magister prawa",
+        "institution": "Uniwersytet Warszawski, Wydział Prawa i Administracji",
+        "year": "2005"
+      },
+      {
+        "degree": "Aplikacja adwokacka",
+        "institution": "Okręgowa Rada Adwokacka w Warszawie",
+        "year": "2007-2009"
+      },
+      {
+        "degree": "Podyplomowe studia z zakresu prawa finansowego i podatkowego",
+        "institution": "Szkoła Główna Handlowa w Warszawie",
+        "year": "2012"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Doświadczenie zawodowe",
+    "items": [
+      {
+        "period": "2009 – obecnie",
+        "role": "Właściciel Kancelarii Adwokackiej",
+        "institution": "Kancelaria Adwokacka mec. Tomasz Kowalski, Warszawa",
+        "description": "Prowadzenie indywidualnej praktyki adwokackiej z specjalizacją w prawie karnym i karno-gospodarczym. Reprezentacja klientów przed prokuraturami i sądami wszystkich instancji. Obsługa prawna przedsiębiorstw z branży finansowej, budowlanej, handlowej i technologicznej. Od 2015 roku zajmuję się wyłącznie sprawami karnymi i karno-gospodarczymi."
+      },
+      {
+        "period": "2004 – 2009",
+        "role": "Asesor prokuratorski / Prokurator",
+        "institution": "Prokuratura Okręgowa w Warszawie",
+        "description": "Praca w Wydziale Śledczym i Wydziale do Spraw Przestępczości Zorganizowanej. Prowadzenie śledztw w sprawach o przestępstwa gospodarcze, finansowe i przeciwko mieniu. Doświadczenie w przygotowywaniu aktów oskarżenia i reprezentacji oskarżyciela publicznego przed sądami."
+      },
+      {
+        "period": "2013 – 2019",
+        "role": "Wykładowca",
+        "institution": "Uniwersytet Warszawski, Wydział Prawa i Administracji",
+        "description": "Prowadzenie zajęć z postępowania karnego i prawa karnego gospodarczego dla studentów prawa. Wykład na temat obrony członków zarządów w postępowaniach karnych na konferencjach naukowych."
+      }
+    ]
+  },
+  "achievements": {
+    "title": "Wyróżnienia i osiągnięcia",
+    "items": [
+      {
+        "icon": "Award",
+        "title": "Certyfikat specjalisty prawa karnego gospodarczego",
+        "description": "Certyfikacja wydana przez Stowarzyszenie Adwokatów Polskich po zdanym egzaminie specjalizacyjnym. Potwierdzenie kompetencji w zakresie obrony w sprawach o przestępstwa gospodarcze, skarbowe i korupcyjne."
+      },
+      {
+        "icon": "Globe",
+        "title": "Członek międzynarodowej organizacji prawniczej",
+        "description": "Członek International Association of Defence Lawyers (IADL). Współpraca z kancelariami z Wielkiej Brytanii, Niemiec, USA i Szwajcarii w sprawach transgranicznych."
+      },
+      {
+        "icon": "Users",
+        "title": "Prelegent na konferencjach prawnych",
+        "description": "Udział jako prelegent na ponad 30 konferencjach i szkoleniach z zakresu prawa karnego gospodarczego, compliance i ochrony członków zarządów. Publikacje w czasopismach prawniczych: \"Palestra\", \"Przegląd Prawa Karnego\", \"Monitor Prawniczy\"."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Rekomendacje branżowe",
+        "description": "Regularne rekomendacje w przewodnikach prawniczych Legal500 EMEA i Chambers Europe w kategorii Crime: White-Collar Crime. Potwierdzenie pozycji w ścisłej czołówce adwokatów karnych w Polsce."
+      }
+    ]
+  },
+  "stats": [
+    {
+      "value": "15+",
+      "unit": "lat praktyki adwokackiej"
+    },
+    {
+      "value": "800+",
+      "unit": "prowadzonych spraw karnych"
+    },
+    {
+      "value": "94%",
+      "unit": "skuteczności w sądzie I instancji"
+    },
+    {
+      "value": "40+",
+      "unit": "klientów biznesowych rocznie"
+    }
+  ],
+  "values": {
+    "title": "Moje zasady",
+    "items": [
+      {
+        "icon": "Heart",
+        "title": "Bezwzględna lojalność wobec klienta",
+        "description": "Każdy klient otrzymuje moją pełną dedykację. Nie przyjmuję spraw, w których nie mogę zaangażować się w 100%. Każda sprawa ma priorytet – niezależnie od jej wagi."
+      },
+      {
+        "icon": "Gavel",
+        "title": "Rzetelna ocena szans",
+        "description": "Nie obiecuję nierealnych wyników. Na pierwszej konsultacji uczciwie oceniam sytuację, wskazuję zarówno mocne, jak i słabe strony sprawy. Klient podejmuje decyzje na podstawie faktów, a nie obietnic."
+      },
+      {
+        "icon": "Clock",
+        "title": "Ciągła dostępność",
+        "description": "Sprawy karne nie czekają na poranek. Klienci mają mój bezpośredni numer telefonu i mogą się kontaktować w nagłych sytuacjach. Odpowiadam na wiadomości w ciągu kilku godzin."
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Ciągły rozwój kompetencji",
+        "description": "Prawo karne się zmienia – orzecznictwo, przepisy, interpretacje. Regularnie uczestniczę w szkoleniach, czytam literaturę prawniczą i dzielę się wiedzą jako wykładowca. To pozwala mi oferować obronę na aktualnym poziomie."
+      }
+    ]
+  },
+  "publications": {
+    "title": "Wybrane publikacje",
+    "items": [
+      {
+        "title": "Odpowiedzialność karna członków zarządu spółek handlowych – aktualne problemy i orzecznictwo",
+        "journal": "Palestra, nr 3/2024",
+        "description": "Analiza najnowszego orzecznictwa Sądu Najwyższego dotyczącego granic odpowiedzialności karnej członków zarządu za działania podjęte w imieniu spółki."
+      },
+      {
+        "title": "Dobrowolne poddanie się karze w sprawach karno-gospodarczych – kiedy warto się zgodzić?",
+        "journal": "Przegląd Prawa Karnego, nr 7-8/2023",
+        "description": "Praktyczna analiza korzyści i ryzyk związanych z dobrowolnym poddaniem się karze w sprawach o oszustwa gospodarcze i niegospodarność."
+      },
+      {
+        "title": "Prawo obrony na etapie zatrzymania i przeszukania – przegląd orzecznictwa ETPCz",
+        "journal": "Monitor Prawniczy, nr 11/2022",
+        "description": "Kompleksowe omówienie standardów Europejskiego Trybunału Praw Człowieka dotyczących praw zatrzymanego, w tym prawa do kontaktu z adwokatem."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pytania o kancelarię",
+    "items": [
+      {
+        "question": "Czy przyjmujesz sprawy z innych miast?",
+        "answer": "Tak. Moja kancelaria znajduje się w Warszawie, ale prowadzę sprawy na terenie całego kraju. W sprawach karno-gospodarczych często działam przed prokuraturami i sądami w Krakowie, Wrocławiu, Poznaniu, Gdańsku i Łodzi. Dojazdy są ustalane indywidualnie."
+      },
+      {
+        "question": "Czy współpracujesz z innymi adwokatami?",
+        "answer": "W sprawach wymagających szerszego wsparcia współpracuję z zaprzyjaźnionymi kancelariami specjalizującymi się w prawie cywilnym, podatkowym i administracyjnym. Klient zawsze ma jednego głównego obrońcę – mnie – ale korzysta z zespołu kompetencji."
+      },
+      {
+        "question": "Czy obsługujesz sprawy osób niepełnoletnich?",
+        "answer": "Tak. Reprezentuję nieletnich w postępowaniach przed sądami rodzinnymi i w sprawach karnych, w których oskarżonym lub podejrzanym jest osoba poniżej 18 roku życia. W takich sprawach szczególnie dbam o ochronę prywatności i praw małoletniego."
+      },
+      {
+        "question": "Czy udzielasz wywiadów mediom?",
+        "answer": "Nie komentuję bieżących spraw w mediach. Prywatność klienta jest dla mnie priorytetem. W mediach występuję wyłącznie jako komentator ogólnych zagadnień prawnych – nigdy w kontekście konkretnych postępowań, w których reprezentuję klienta."
+      }
+    ]
+  }
+}

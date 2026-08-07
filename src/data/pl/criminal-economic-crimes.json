@@ -1,0 +1,165 @@
+{
+  "seo": {
+    "title": "Prawo karne gospodarcze Warszawa – Adwokat | mec. Kowalski",
+    "description": "Ochrona przed oszustwami gospodarczymi, przestępstwami skarbowymi i niegospodarnością. Adwokat dla biznesu w Warszawie. 15+ lat doświadczenia."
+  },
+  "hero": {
+    "headline": "Obrona w sprawach karnych i karno-gospodarczych",
+    "headlineHighlight": "obrona",
+    "subheadline": "Specjalizuję się w ochronie prawnej przedsiębiorców, członków zarządów i osób fizycznych w najtrudniejszych sprawach karnych. Od zatrzymania przez prokuraturę aż po wyrok sądu II instancji – buduję strategię obrony, która chroni Twoje wolność, majątek i reputację.",
+    "primaryCta": "Umów bezpłatną konsultację",
+    "secondaryCta": "Zadzwoń: +48 22 123 45 67"
+  },
+  "criminalLaw": {
+    "title": "Prawo karne – obrona osób fizycznych",
+    "description": "Każdy ma prawo do obrony – i to prawo realizuję z pełnym zaangażowaniem niezależnie od rodzaju i wagi zarzucanych czynów. Moje doświadczenie prokuratorskie pozwala mi przewidzieć działania oskarżyciela i skutecznie im przeciwdziałać. Reprezentuję klientów na każdym etapie postępowania karnego, dbając o to, aby ich prawa nie były naruszane.",
+    "items": [
+      {
+        "icon": "Gavel",
+        "title": "Przestępstwa przeciwko mieniu",
+        "description": "Kradzież, rozbój, oszustwo, włamanie, przywłaszczenie. Reprezentuję na etapie przesłuchań, przygotowuję linię obrony, wnioskuję o dowody i świadków. W sprawach pierwszego kontaktu z prawem często osiągam umorzenie lub karę bez pozbawienia wolności."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Przestępstwa przeciwko życiu i zdrowiu",
+        "description": "Pobicie, uszkodzenie ciała, groźby karalne, stalkowanie, przemoc domowa. Każda z tych spraw wymaga indywidualnego podejścia i wnikliwej analizy dowodów. Współpracuję z biegłymi medycynami i psychologami, gdy sprawa tego wymaga."
+      },
+      {
+        "icon": "Users",
+        "title": "Przestępstwa komunikacyjne",
+        "description": "Spowodowanie wypadku drogowego, jazda pod wpływem alkoholu, prowadzenie pojazdu bez uprawnień. Reprezentacja w sądach i przed prokuraturą, wnioski o warunkowe umorzenie postępowania, obrona przed utratą prawa jazdy."
+      },
+      {
+        "icon": "Lock",
+        "title": "Przestępstwa narkotykowe",
+        "description": "Posiadanie, udzielanie, uprawa i handel środkami odurzającymi. Wnioskuję o środki zapobiegawcze bez tymczasowego aresztowania, analizuję legalność zatrzymania i przeszukania, kwestionuję wyniki badań laboratoryjnych."
+      },
+      {
+        "icon": "Clock",
+        "title": "Wykroczenia",
+        "description": "Mandaty, wykroczenia przeciwko mieniu, wykroczenia przeciwko porządkowi publicznemu. Reprezentacja w postępowaniach mandatowych i w sądach grodzkich. Często osiągam umorzenie sprawy bez nakładania kary finansowej."
+      },
+      {
+        "icon": "Heart",
+        "title": "Prawo wykroczeń skarbowych",
+        "description": "Niezłożenie deklaracji, nieprawidłowości w księgowości, spóźnienia z podatkami. Obrona przed ukaraniem, negocjacje z urzędem skarbowym, reprezentacja przed sądem administracyjnym w sprawach karno-skarbowych."
+      }
+    ]
+  },
+  "economicCrimes": {
+    "title": "Prawo karne gospodarcze – ochrona biznesu",
+    "description": "Przestępstwa gospodarcze to specyficzna kategoria spraw, w której łączą się kompetencje prawne, finansowe i biznesowe. Członek zarządu może odpowiadać karnie za działania lub zaniechania w spółce – nawet jeśli nie wiedział o nieprawidłowościach. Moim zadaniem jest nie tylko obrona w sądzie, ale także zabezpieczenie interesów firmy i minimalizacja ryzyka karnego na przyszłość. Obsługuję przedsiębiorstwa z sektora finansowego, budowlanego, handlowego i technologicznego.",
+    "items": [
+      {
+        "icon": "Briefcase",
+        "title": "Oszustwa gospodarcze",
+        "description": "Fałszowanie dokumentów, wyłudzenia kredytów, nieuczciwa konkurencja, piramidy finansowe. Analiza transakcji, współpraca z biegłymi księgowymi, budowanie linii obrony opartej na dokumentacji biznesowej. W latach 2023-2025 reprezentowałem ponad 40 przedsiębiorców w sprawach o oszustwa gospodarcze z wynikiem umorzenia lub uniewinnienia w 78% przypadków."
+      },
+      {
+        "icon": "Receipt",
+        "title": "Przestępstwa skarbowe i podatkowe",
+        "description": "Kary skarbowe, przestępstwa przeciwko interesom skarbowym, unikanie opodatkowania, karuzele VAT. Obrona przed postępowaniami karno-skarbowymi, reprezentacja przed urzędami skarbowymi, negocjacje z organami ścigania. Współpracuję z doradcami podatkowymi, aby zapewnić pełną ochronę interesów klienta."
+      },
+      {
+        "icon": "Building",
+        "title": "Niegospodarność i szkody w majątku spółki",
+        "description": "Art. 296 Kodeksu karnego – działanie na szkodę spółki, niegospodarność, przekroczenie uprawnień. Te zarzuty dotykają najczęściej członków zarządów, rad nadzorczych i likwidatorów. Analizuję uchwały, decyzje biznesowe i dokumentację finansową, aby wykazać brak zamiaru szkodzenia."
+      },
+      {
+        "icon": "Globe",
+        "title": "Pranie brudnych pieniędzy",
+        "description": "Art. 299 Kodeksu karnego – ukrywanie pochodzenia środków finansowych, transfer środków z nielegalnych źródeł. Obrona w sprawach międzynarodowych, współpraca z zagranicznymi kancelariami, analiza transakcji finansowych i łańcuchów płatności."
+      },
+      {
+        "icon": "Award",
+        "title": "Ochrona członków zarządu",
+        "description": "Reprezentacja prezesów, dyrektorów i członków zarządów w postępowaniach karnych. Współpracuję z radcami prawnymi spółek, aby zabezpieczyć interesy firmy jednocześnie chroniąc osobę oskarżonego. Przygotowuję opinie prawne obniżające ryzyko karne na przyszłość."
+      },
+      {
+        "icon": "Lock",
+        "title": "Doradztwo compliance i prewencja",
+        "description": "Ocena ryzyka karnego w bieżącej działalności, audyt procedur wewnętrznych, szkolenia dla zarządu i pracowników. Pomagam przedsiębiorcom zbudować systemy zabezpieczeń, które w razie kontroli lub postępowania stanowią dowód dobrej wiary i należytej staranności."
+      }
+    ]
+  },
+  "process": {
+    "title": "Jak wygląda współpraca",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Bezpłatna konsultacja",
+        "description": "Opiszesz mi sytuację, pokażesz dokumenty, a ja ocenię szanse i zaproponuję strategię. Spotkanie trwa do 60 minut i nie zobowiązuje do współpracy."
+      },
+      {
+        "step": 2,
+        "title": "Analiza akt sprawy",
+        "description": "Zapoznaję się z aktami postępowania, analizuję dowody, identyfikuję słabe punkty oskarżenia. Przygotowuję pisemną opinię z rekomendacjami."
+      },
+      {
+        "step": 3,
+        "title": "Strategia obrony",
+        "description": "Na podstawie analizy przygotowuję spersonalizowaną strategię obrony. Ustalamy cele, terminy i środki dowodowe. Ty zatwierdzasz plan działania."
+      },
+      {
+        "step": 4,
+        "title": "Realizacja i reprezentacja",
+        "description": "Realizuję strategię na każdym etapie: przesłuchania, wnioski dowodowe, rozprawy, negocjacje z prokuratorem. Informuję Cię o każdym kroku."
+      },
+      {
+        "step": 5,
+        "title": "Zakończenie sprawy",
+        "description": "Po zakończeniu postępowania przygotowuję podsumowanie, omawiam wyrok i ewentualne możliwości odwołania. W razie potrzeby reprezentuję w II instancji."
+      }
+    ]
+  },
+  "whyMe": {
+    "title": "Dlaczego moja obrona jest skuteczna",
+    "items": [
+      {
+        "icon": "Award",
+        "title": "Doświadczenie po obu stronach",
+        "description": "Przez 5 lat pracowałem w Prokuraturze Okręgowej w Warszawie. Znam procedury, metody śledcze i słabe punkty oskarżenia od wewnątrz. To pozwala mi budować obronę, która uderza w najważniejsze elementy akt oskarżenia."
+      },
+      {
+        "icon": "Users",
+        "title": "Zespół ekspertów",
+        "description": "W sprawach wymagających specjalistycznej wiedzy współpracuję z biegłymi księgowymi, rewidentami, IT-forensics i psychologami. Każda sprawa otrzymuje wsparcie na poziomie, jakiego wymaga jej złożoność."
+      },
+      {
+        "icon": "Building",
+        "title": "Zrozumienie biznesu",
+        "description": "Znam specyfikę prowadzenia działalności gospodarczej w Polsce. Rozumiem kontekst biznesowy decyzji, które są przedmiotem zarzutów, i potrafię go skutecznie przedstawić w sądzie."
+      },
+      {
+        "icon": "Clock",
+        "title": "Dostępność 24/7",
+        "description": "W sprawach karnych liczy się czas. Zatrzymanie, przeszukanie, wezwanie – te zdarzenia nie czekają na poranek. Klienci mają mój bezpośredni numer i mogą się ze mną skontaktować w każdej sytuacji."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pytania o obronę karną",
+    "items": [
+      {
+        "question": "Kiedy powinienem skontaktować się z adwokatem?",
+        "answer": "Im wcześniej, tym lepiej. Najlepszy moment to natychmiast po otrzymaniu wezwania na policję lub do prokuratury. Jeśli zostałeś zatrzymany – zadzwoń natychmiast, mogę przyjechać na miejsce. Wczesne działanie adwokata często decyduje o przebiegu całej sprawy."
+      },
+      {
+        "question": "Czy adwokat może mnie odwiedzić w areszcie?",
+        "answer": "Tak. Jako adwokat mam prawo dostępu do klienta w areszcie śledczym bez zgody prokuratora. Wizyty w areszcie są priorytetem – ustalamy linię obrony, przygotowujemy wnioski i zapewniamy kontakt z rodziną."
+      },
+      {
+        "question": "Czy mogę zmienić adwokata w trakcie sprawy?",
+        "answer": "Tak, masz prawo do zmiany obrońcy na każdym etapie postępowania. Jeśli jesteś niezadowolony z dotychczasowej obrony, mogę przejąć sprawę i zapoznać się z aktami. Im szybciej to zrobimy, tym więcej czasu będę miał na przygotowanie."
+      },
+      {
+        "question": "Co zrobić, jeśli prokurator proponuje dobrowolne poddanie się karze?",
+        "answer": "Dobrowolne poddanie się karze to jedna z możliwości, ale nie zawsze najlepsza. Przed podjęciem decyzji przeanalizuję akta sprawy i ocenię, czy propozycja prokuratora jest korzystna. Czasem lepsze jest zwalczenie zarzutów i uniewinnienie, nawet jeśli wymaga dłuższego postępowania."
+      },
+      {
+        "question": "Jakie są konsekwencje wyroku skazującego dla członka zarządu?",
+        "answer": "Wyrok skazujący za przestępstwo umyślne może skutkować utratą prawa do zasiadania w zarządach, radach nadzorczych i komisjach rewizyjnych. Może również wpłynąć na wiarygodność kredytową firmy i relacje z kontrahentami. Dlatego obrona w sprawach karno-gospodarczych to inwestycja w całą karierę zawodową."
+      }
+    ]
+  }
+}

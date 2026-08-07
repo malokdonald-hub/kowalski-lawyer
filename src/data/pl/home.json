@@ -1,0 +1,61 @@
+{
+  "seo": {
+    "title": "Adwokat Warszawa – Prawo karne i gospodarcze | mec. Kowalski",
+    "description": "Doświadczony adwokat w Warszawie. Ochrona w sprawach karnych i karno-gospodarczych. Ponad 15 lat praktyki. Bezpieczna konsultacja."
+  },
+  "hero": {
+    "headline": "Strategiczna obrona w sprawach karnych i karno-gospodarczych",
+    "headlineHighlight": "strategiczna obrona",
+    "subheadline": "Ponad 15 lat doświadczenia w ochronie prawnej przedsiębiorców i osób fizycznych w Warszawie. Skuteczna reprezentacja na każdym etapie postępowania – od dochodzenia aż po sąd najwyższej instancji.",
+    "primaryCta": "Umów bezpłatną konsultację",
+    "secondaryCta": "Zadzwoń teraz",
+    "secondaryCtaHref": "tel:+48221234567"
+  },
+  "stats": [
+    { "value": "15+", "unit": "lat doświadczenia" },
+    { "value": "800+", "unit": "spraw karnych" },
+    { "value": "94%", "unit": "skuteczności w sądzie" },
+    { "value": "24h", "unit": "czas odpowiedzi" }
+  ],
+  "services": {
+    "title": "W czym mogę pomóc",
+    "items": [
+      { "icon": "Gavel", "title": "Prawo karne", "description": "Kompleksowa obrona na etapie postępowania przygotowawczego i sądowego. Reprezentacja podejrzanych i oskarżonych w sprawach o przestępstwa przeciwko życiu, zdrowiu, mieniu oraz wolności seksualnej. Zabezpieczenie praw na każdym etapie postępowania karnego." },
+      { "icon": "Briefcase", "title": "Przestępstwa gospodarcze", "description": "Ochrona przedsiębiorców, członków zarządów i dyrektorów w sprawach o przestępstwa skarbowe, oszustwa gospodarcze, niegospodarność i pranie brudnych pieniędzy. Działania prewencyjne i reprezentacja przed prokuraturą oraz sądami." },
+      { "icon": "ShieldCheck", "title": "Doradztwo compliance", "description": "Audyt prawny procedur wewnętrznych, ocena ryzyka karnego w transakcjach biznesowych, przygotowanie opinii prawnych i zabezpieczenie przed odpowiedzialnością karną członków zarządu." },
+      { "icon": "Clock", "title": "Pomoc na etapie zatrzymania", "description": "Natychmiastowa pomoc prawna w przypadku zatrzymania, przeszukania lub zatrzymania na 48 godzin. Obecność podczas przesłuchań, wnioskowanie o zwolnienie, zabezpieczenie praw na najwcześniejszym etapie postępowania." }
+    ]
+  },
+  "benefits": {
+    "title": "Dlaczego klienci mi ufają",
+    "items": [
+      { "icon": "Landmark", "title": "Doświadczenie prokuratora", "description": "Wieloletnia praca w prokuraturze dała mi wgląd w obie strony procesu karnego. Wiem, jak działa prokuratura – i wiem, jak skutecznie się przed nią bronić." },
+      { "icon": "Users", "title": "800+ wygranych spraw", "description": "Bogate doświadczenie procesowe w sprawach o różnej złożoności – od wykroczeń drogowych po wielowątkowe sprawy karno-gospodarcze. Każda sprawa to indywidualna strategia obrony." },
+      { "icon": "Building", "title": "Stała reprezentacja firm", "description": "Obsługa prawna przedsiębiorstw z branży finansowej, budowlanej, handlowej i technologicznej. Zabezpieczam interesy biznesowe na poziomie karnym i karno-skarbowym." },
+      { "icon": "Languages", "title": "Obsługa w języku polskim i angielskim", "description": "Sprawy z udziałem obcokrajowców, dokumentacja dwujęzyczna, współpraca z kancelariami zagranicznymi. Reprezentacja klientów z Wielkiej Brytanii, Niemiec, USA i innych krajów." }
+    ]
+  },
+  "testimonials": {
+    "title": "Co mówią klienci",
+    "items": [
+      { "quote": "Mecenas Kowalski przejął moją sprawę na etapie postępowania przygotowawczego i doprowadził do umorzenia. Profesjonalizm, spokój i pełne zaangażowanie na każdym posiedzeniu. Polecam każdemu, kto potrzebuje rzeczywiście skutecznego obrońcy.", "author": "Marek W., przedsiębiorca", "caseType": "Sprawa karno-gospodarcza" },
+      { "quote": "Zostałem zatrzymany w nocy i nie wiedziałem, co robić. Mecenas Kowalski przyjechał na komendę w ciągu godziny. Dzięki jego interwencji zostałem zwolniony, a sprawa została umorzona. Nie wyobrażam sobie lepszej obrony w takiej sytuacji.", "author": "Tomasz R., klient indywidualny", "caseType": "Pomoc po zatrzymaniu" },
+      { "quote": "Reprezentacja przez mec. Kowalskiego w sprawie karnej przeciwko członkowi zarządu naszej spółki. Skrupulatne przygotowanie, głęboka wiedza z zakresu prawa handlowego i karnego. Wyrok uniewinniający – więcej takich adwokatów w Warszawie.", "author": "Anna K., dyrektor finansowa", "caseType": "Obrona członka zarządu" }
+    ]
+  },
+  "pricingPreview": {
+    "title": "Przejrzyste warunki współpracy",
+    "description": "Pierwsza konsultacja jest bezpłatna. Poznaj warunki przed podjęciem decyzji.",
+    "linkText": "Zobacz pełny cennik",
+    "linkUrl": "/uslugi"
+  },
+  "faq": {
+    "title": "Najczęstsze pytania",
+    "items": [
+      { "question": "Ile kosztuje pierwsza konsultacja u adwokata?", "answer": "Pierwsza konsultacja jest bezpłatna. Przedstawisz mi sytuację, a ja ocenię szanse sprawy i zaproponuję strategię działania. Dopiero po konsultacji podejmiesz decyzję o dalszej współpracy." },
+      { "question": "Jak szybko adwokat może podjąć sprawę?", "answer": "W sprawach nagłych – zatrzymanie, przeszukanie, zatrzymanie na 48 godzin – jestem dostępny 24 godziny na dobę. W standardowych sprawach pierwsze działania podejmuję w ciągu 24 godzin od kontaktu." },
+      { "question": "Czy obsługujesz sprawy poza Warszawą?", "answer": "Tak. Chociaż moja kancelaria znajduje się w Warszawie, prowadzę sprawy na terenie całego kraju. W sprawach karno-gospodarczych często działam przed prokuraturami i sądami w innych miastach." },
+      { "question": "Czy mogę kontaktować się z adwokatem po godzinach?", "answer": "W sprawach karnych sytuacja może zmienić się w każdej chwili. Klienci, z którymi współpracuję, mają mój bezpośredni numer telefonu i mogą się kontaktować w nagłych przypadkach. Sprawy nie czekają na poranek." }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "seo": {
+    "title": "About the Firm – Lawyer Tomasz Kowalski | Warsaw",
+    "description": "Lawyer Tomasz Kowalski – 15+ years of experience in criminal and economic law. Former prosecutor. Lecturer at the University of Warsaw. Warsaw."
+  },
+  "hero": {
+    "headline": "Tomasz Kowalski – a lawyer who knows both sides of the process",
+    "headlineHighlight": "knows both sides",
+    "subheadline": "For 5 years I served as a prosecutor at the Regional Prosecutor's Office in Warsaw, and for over 15 years I have been running my own law practice. I protect the freedom, assets, and reputation of entrepreneurs and individuals alike. This unique experience on both sides of the barricade enables me to build effective defence strategies grounded in a thorough understanding of prosecutorial mechanisms. I have also delivered presentations at over 30 legal conferences.",
+    "primaryCta": "Schedule a free consultation",
+    "secondaryCta": "Call: +48 22 123 45 67"
+  },
+  "bio": {
+    "name": "Tomasz Kowalski, Esq.",
+    "role": "Advocate / Legal counsel specialising in criminal and white-collar criminal law",
+    "imageAlt": "Lawyer Tomasz Kowalski – Law Office Warsaw",
+    "summary": "I am an advocate admitted to the roll of the Warsaw District Bar Council. I specialise in defence in criminal and white-collar criminal cases, with a particular focus on protecting entrepreneurs and board members. My mission is to ensure that every client receives diligent, committed, and effective defence – regardless of the gravity of the charges.",
+    "education": [
+      {
+        "degree": "Master of Laws (LL.M.)",
+        "institution": "University of Warsaw, Faculty of Law and Administration",
+        "year": "2005"
+      },
+      {
+        "degree": "Bar training (advocate apprenticeship)",
+        "institution": "Warsaw District Bar Council",
+        "year": "2007-2009"
+      },
+      {
+        "degree": "Postgraduate studies in financial and tax law",
+        "institution": "Warsaw School of Economics (SGH)",
+        "year": "2012"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Professional experience",
+    "items": [
+      {
+        "period": "2009 – present",
+        "role": "Owner, Law Office",
+        "institution": "Law Office of Tomasz Kowalski, Esq., Warsaw",
+        "description": "Running an individual advocacy practice specialising in criminal and white-collar criminal law. Representing clients before prosecutors' offices and courts of all instances. Providing legal services to enterprises in the financial, construction, trade, and technology sectors. Since 2015, I have exclusively handled criminal and white-collar criminal cases."
+      },
+      {
+        "period": "2004 – 2009",
+        "role": "Prosecutorial trainee / Prosecutor",
+        "institution": "Regional Prosecutor's Office in Warsaw",
+        "description": "Work in the Investigative Department and the Organised Crime Department. Conducting investigations into economic, financial, and property offences. Experience in preparing indictments and representing the public prosecutor before courts."
+      },
+      {
+        "period": "2013 – 2019",
+        "role": "Lecturer",
+        "institution": "University of Warsaw, Faculty of Law and Administration",
+        "description": "Teaching criminal procedure and white-collar criminal law to law students. Delivering conference lectures on the defence of board members in criminal proceedings."
+      }
+    ]
+  },
+  "achievements": {
+    "title": "Distinctions and achievements",
+    "items": [
+      {
+        "icon": "Award",
+        "title": "Certified specialist in white-collar criminal law",
+        "description": "Certification issued by the Polish Bar Association upon passing the specialisation examination. Confirmation of competencies in defence in cases concerning economic, fiscal, and corruption offences."
+      },
+      {
+        "icon": "Globe",
+        "title": "Member of an international legal organisation",
+        "description": "Member of the International Association of Defence Lawyers (IADL). Cooperation with law firms from the United Kingdom, Germany, the United States, and Switzerland in cross-border cases."
+      },
+      {
+        "icon": "Users",
+        "title": "Speaker at legal conferences",
+        "description": "Presentations as a speaker at over 30 conferences and training sessions on white-collar criminal law, compliance, and board member protection. Publications in legal journals: \"Palestra\", \"Criminal Law Review\", \"Legal Monitor\"."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Industry recommendations",
+        "description": "Regularly recommended in Legal500 EMEA and Chambers Europe legal directories in the Crime: White-Collar Crime category. Confirmation of a position among the leading criminal defence advocates in Poland."
+      }
+    ]
+  },
+  "stats": [
+    {
+      "value": "15+",
+      "unit": "years of advocacy practice"
+    },
+    {
+      "value": "800+",
+      "unit": "criminal cases handled"
+    },
+    {
+      "value": "94%",
+      "unit": "success rate in first-instance courts"
+    },
+    {
+      "value": "40+",
+      "unit": "business clients per year"
+    }
+  ],
+  "values": {
+    "title": "My principles",
+    "items": [
+      {
+        "icon": "Heart",
+        "title": "Absolute loyalty to the client",
+        "description": "Every client receives my full dedication. I do not accept cases in which I cannot commit 100%. Each case is a priority – regardless of its gravity."
+      },
+      {
+        "icon": "Gavel",
+        "title": "Honest assessment of prospects",
+        "description": "I do not promise unrealistic outcomes. At the initial consultation I assess the situation honestly, identifying both the strengths and weaknesses of the case. The client makes decisions based on facts, not promises."
+      },
+      {
+        "icon": "Clock",
+        "title": "Constant availability",
+        "description": "Criminal cases do not wait until morning. Clients have my direct phone number and can reach me in urgent situations. I respond to messages within a few hours."
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Continuous professional development",
+        "description": "Criminal law evolves – case law, statutes, and interpretations change. I regularly attend training sessions, read legal literature, and share knowledge as a lecturer. This enables me to provide defence at the highest current standard."
+      }
+    ]
+  },
+  "publications": {
+    "title": "Selected publications",
+    "items": [
+      {
+        "title": "Criminal liability of board members of commercial companies – current issues and case law",
+        "journal": "Palestra, no. 3/2024",
+        "description": "Analysis of the latest Supreme Court case law concerning the limits of criminal liability of board members for acts undertaken on behalf of the company."
+      },
+      {
+        "title": "Voluntary submission to a penalty in white-collar criminal cases – when is it worth agreeing?",
+        "journal": "Criminal Law Review, no. 7-8/2023",
+        "description": "Practical analysis of the benefits and risks associated with voluntary submission to a penalty in cases of economic fraud and mismanagement."
+      },
+      {
+        "title": "The right to defence at the stage of detention and search – a review of ECtHR case law",
+        "journal": "Legal Monitor, no. 11/2022",
+        "description": "Comprehensive overview of European Court of Human Rights standards concerning the rights of a detainee, including the right to contact a lawyer."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions about the firm",
+    "items": [
+      {
+        "question": "Do you accept cases from other cities?",
+        "answer": "Yes. My office is based in Warsaw, but I handle cases throughout the entire country. In white-collar criminal cases I frequently appear before prosecutors' offices and courts in Kraków, Wrocław, Poznań, Gdańsk, and Łódź. Travel arrangements are agreed on a case-by-case basis."
+      },
+      {
+        "question": "Do you collaborate with other lawyers?",
+        "answer": "In cases requiring broader support, I cooperate with affiliated law firms specialising in civil, tax, and administrative law. The client always has one lead defence counsel – me – but benefits from a breadth of competencies."
+      },
+      {
+        "question": "Do you handle cases involving minors?",
+        "answer": "Yes. I represent minors in proceedings before family courts and in criminal cases where the accused or suspect is under 18 years of age. In such cases I pay particular attention to protecting the privacy and rights of the minor."
+      },
+      {
+        "question": "Do you give media interviews?",
+        "answer": "I do not comment on pending cases in the media. Client privacy is my priority. I appear in the media exclusively as a commentator on general legal issues – never in the context of specific proceedings in which I represent a client."
+      }
+    ]
+  }
+}

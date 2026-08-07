@@ -1,0 +1,45 @@
+{
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "Services", "href": "/uslugi" },
+    { "label": "Economic crimes", "href": "/przestepstwa-gospodarcze" },
+    { "label": "About the firm", "href": "/o-kancelarii" },
+    { "label": "Contact", "href": "/kontakt" }
+  ],
+  "footer": {
+    "logo": {
+      "title": "Kancelaria Kowalski",
+      "subtitle": "Lawyer Warsaw"
+    },
+    "description": "Comprehensive legal protection in criminal and white-collar criminal cases. Over 15 years of experience representing individual and business clients in Warsaw and throughout Poland.",
+    "columns": [
+      {
+        "title": "Navigation",
+        "links": [
+          { "label": "Home", "href": "/" },
+          { "label": "Services", "href": "/uslugi" },
+          { "label": "Economic crimes", "href": "/przestepstwa-gospodarcze" },
+          { "label": "About the firm", "href": "/o-kancelarii" },
+          { "label": "Contact", "href": "/kontakt" }
+        ]
+      }
+    ],
+    "contact": {
+      "phones": ["+48 22 123 45 67", "+48 600 123 456"],
+      "email": "kontakt@kowalski-adwokat.pl",
+      "address": "ul. Marszałkowska 42/15, 00-648 Warsaw"
+    },
+    "social": {
+      "facebook": "https://facebook.com",
+      "instagram": "https://instagram.com"
+    },
+    "copyright": "© 2026 Kancelaria Kowalski. All rights reserved."
+  },
+  "cta": {
+    "title": "Need legal protection?",
+    "description": "The first consultation is free. Get in touch today and explore your options.",
+    "primaryButton": "Schedule a consultation",
+    "secondaryButton": "Call: +48 22 123 45 67",
+    "phone": "+48 22 123 45 67"
+  }
+}
