@@ -18,7 +18,7 @@ export default function CTASection({ lang }: { lang: string }) {
         <p className="max-w-2xl text-base text-white/70 sm:text-lg">{cta.description}</p>
         <div className="flex flex-col gap-4 sm:flex-row">
           <Link
-            href={`/${currentLang}/kontakt`}
+            href={`/${lang}/kontakt`}
             className="rounded-md bg-primary px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-primary/90 sm:text-base"
           >
             {cta.primaryButton}
