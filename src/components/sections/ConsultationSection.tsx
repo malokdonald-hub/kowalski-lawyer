@@ -30,10 +30,10 @@ export default function ConsultationSection({ data }: ConsultationSectionProps) 
             className="flex flex-col gap-4"
           >
             <h2 className="font-playfair text-3xl font-bold text-secondary sm:text-4xl">{title}</h2>
-            <p className="text-base text-foreground/80 sm:text-lg">{description}</p>
+<p className="text-base text-gray-600 sm:text-lg">{description}</p>
             <div className="mt-2 flex flex-wrap items-baseline gap-3">
               <span className="font-playfair text-3xl font-bold text-primary">{price}</span>
-              <span className="text-sm text-foreground/60">{duration}</span>
+<span className="text-sm text-gray-800">{duration}</span>
             </div>
           </motion.div>
           <motion.ul
@@ -46,7 +46,7 @@ export default function ConsultationSection({ data }: ConsultationSectionProps) 
             {includes.map((item) => (
               <li key={item} className="flex items-start gap-3">
                 <Check className="mt-0.5 h-5 w-5 flex-shrink-0 text-accent" stroke="currentColor" />
-                <span className="text-sm text-foreground/80 sm:text-base">{item}</span>
+<span className="text-sm text-gray-600 sm:text-base">{item}</span>
               </li>
             ))}
           </motion.ul>

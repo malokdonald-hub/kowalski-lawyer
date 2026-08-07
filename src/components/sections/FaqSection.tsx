@@ -46,7 +46,7 @@ export default function FaqSection({ data }: FaqSectionProps) {
                 <span>{item.question}</span>
                 <ChevronDown className="h-5 w-5 flex-shrink-0 text-accent transition-transform duration-300 group-open:rotate-180" />
               </summary>
-              <p className="mt-4 text-sm text-foreground/80 sm:text-base">{item.answer}</p>
+<p className="mt-4 text-sm text-gray-600 sm:text-base">{item.answer}</p>
             </motion.details>
           ))}
         </div>

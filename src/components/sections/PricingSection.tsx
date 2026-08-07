@@ -35,7 +35,7 @@ export default function PricingSection({ data }: PricingSectionProps) {
           className="mx-auto max-w-3xl text-center"
         >
           <h2 className="font-playfair text-3xl font-bold text-secondary sm:text-4xl">{title}</h2>
-          <p className="mt-4 text-base text-foreground/80 sm:text-lg">{description}</p>
+<p className="mt-4 text-base text-gray-600 sm:text-lg">{description}</p>
         </motion.div>
         <div className="mt-12 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
           {plans.map((plan, index) => (
@@ -58,13 +58,13 @@ export default function PricingSection({ data }: PricingSectionProps) {
               <h3 className="font-playfair text-lg font-bold text-secondary">{plan.name}</h3>
               <div className="flex flex-col gap-1">
                 <span className="font-playfair text-2xl font-bold text-primary">{plan.price}</span>
-                <span className="text-xs text-foreground/60">{plan.period}</span>
+<span className="text-xs text-gray-800">{plan.period}</span>
               </div>
               <ul className="flex flex-1 flex-col gap-3">
                 {plan.features.map((feature) => (
                   <li key={feature} className="flex items-start gap-2">
                     <Check className="mt-0.5 h-4 w-4 flex-shrink-0 text-accent" stroke="currentColor" />
-                    <span className="text-sm text-foreground/80">{feature}</span>
+<span className="text-sm text-gray-600">{feature}</span>
                   </li>
                 ))}
               </ul>

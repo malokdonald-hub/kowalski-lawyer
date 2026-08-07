@@ -49,15 +49,15 @@ export default function BioSection({ data }: BioSectionProps) {
             <h2 className="font-playfair text-3xl font-bold text-secondary sm:text-4xl">{name}</h2>
             <p className="mt-2 text-sm font-semibold text-accent sm:text-base">{role}</p>
           </div>
-          <p className="text-base text-foreground/80 sm:text-lg">{summary}</p>
+<p className="text-base text-gray-600 sm:text-lg">{summary}</p>
           <div className="flex flex-col gap-4">
             <h3 className="font-playfair text-xl font-bold text-secondary">Wykształcenie</h3>
             <ul className="flex flex-col gap-4 border-l-2 border-primary/20 pl-4">
               {education.map((item) => (
                 <li key={item.degree}>
                   <p className="font-semibold text-secondary">{item.degree}</p>
-                  <p className="text-sm text-foreground/70">{item.institution}</p>
-                  <p className="text-xs text-foreground/50">{item.year}</p>
+<p className="text-sm text-gray-700">{item.institution}</p>
+<p className="text-xs text-gray-900">{item.year}</p>
                 </li>
               ))}
             </ul>

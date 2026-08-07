@@ -49,7 +49,7 @@ export default function PublicationsSection({ data }: PublicationsSectionProps) 
                 <p className="mt-1 text-xs font-semibold uppercase tracking-wide text-primary">
                   {item.journal}
                 </p>
-                <p className="mt-2 text-sm text-foreground/80 sm:text-base">{item.description}</p>
+<p className="mt-2 text-sm text-gray-600 sm:text-base">{item.description}</p>
               </div>
             </motion.div>
           ))}

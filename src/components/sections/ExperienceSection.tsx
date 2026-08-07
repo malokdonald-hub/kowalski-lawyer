@@ -50,8 +50,8 @@ export default function ExperienceSection({ data }: ExperienceSectionProps) {
                 <h3 className="mt-1 font-playfair text-xl font-bold text-secondary">
                   {item.role}
                 </h3>
-                <p className="text-sm font-semibold text-foreground/60">{item.institution}</p>
-                <p className="mt-2 text-sm text-foreground/80 sm:text-base">{item.description}</p>
+<p className="text-sm font-semibold text-gray-800">{item.institution}</p>
+<p className="mt-2 text-sm text-gray-600 sm:text-base">{item.description}</p>
               </motion.div>
             ))}
           </div>

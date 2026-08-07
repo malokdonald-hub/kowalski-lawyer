@@ -49,7 +49,7 @@ export default function ContactFormSection({ data }: ContactFormSectionProps) {
     >
       <div>
         <h2 className="font-playfair text-2xl font-bold text-secondary sm:text-3xl">{title}</h2>
-        <p className="mt-2 text-sm text-foreground/80 sm:text-base">{description}</p>
+<p className="mt-2 text-sm text-gray-600 sm:text-base">{description}</p>
       </div>
 
       <form onSubmit={handleSubmit} className="flex flex-col gap-5">
@@ -103,7 +103,7 @@ export default function ContactFormSection({ data }: ContactFormSectionProps) {
 
         <div className="flex items-start gap-2">
           <ShieldCheck className="mt-0.5 h-5 w-5 flex-shrink-0 text-accent" stroke="currentColor" />
-          <p className="text-xs text-foreground/60 sm:text-sm">{disclaimer}</p>
+<p className="text-xs text-gray-800 sm:text-sm">{disclaimer}</p>
         </div>
       </form>
     </motion.div>

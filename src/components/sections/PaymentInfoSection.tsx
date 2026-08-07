@@ -53,7 +53,7 @@ export default function PaymentInfoSection({ data }: PaymentInfoSectionProps) {
               >
                 {Icon && <Icon className="h-10 w-10 text-accent" stroke="currentColor" />}
                 <h3 className="font-playfair text-xl font-bold text-secondary">{item.title}</h3>
-                <p className="text-sm text-foreground/80 sm:text-base">{item.description}</p>
+<p className="text-sm text-gray-600 sm:text-base">{item.description}</p>
               </motion.div>
             );
           })}

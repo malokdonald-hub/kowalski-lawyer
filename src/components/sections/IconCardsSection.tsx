@@ -62,7 +62,7 @@ export default function IconCardsSection({ data, background = "white" }: IconCar
         >
           <h2 className="font-playfair text-3xl font-bold text-secondary sm:text-4xl">{title}</h2>
           {description && (
-            <p className="mt-4 text-base text-foreground/80 sm:text-lg">{description}</p>
+<p className="mt-4 text-base text-gray-600 sm:text-lg">{description}</p>
           )}
         </motion.div>
         <div className="mt-10 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
@@ -79,7 +79,7 @@ export default function IconCardsSection({ data, background = "white" }: IconCar
               >
                 {Icon && <Icon className="h-10 w-10 text-accent" stroke="currentColor" />}
                 <h3 className="font-playfair text-xl font-bold text-secondary">{item.title}</h3>
-                <p className="text-sm text-foreground/80 sm:text-base">{item.description}</p>
+<p className="text-sm text-gray-600 sm:text-base">{item.description}</p>
               </motion.div>
             );
           })}

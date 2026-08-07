@@ -48,7 +48,7 @@ export default function TimelineSection({ data }: TimelineSectionProps) {
                   {item.step}
                 </span>
                 <h3 className="font-playfair text-xl font-bold text-secondary">{item.title}</h3>
-                <p className="mt-2 text-sm text-foreground/80 sm:text-base">{item.description}</p>
+<p className="mt-2 text-sm text-gray-600 sm:text-base">{item.description}</p>
               </motion.div>
             ))}
           </div>

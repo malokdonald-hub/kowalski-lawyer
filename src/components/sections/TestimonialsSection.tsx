@@ -44,7 +44,7 @@ export default function TestimonialsSection({ data }: TestimonialsSectionProps) 
               className="relative flex flex-col gap-4 rounded-lg border border-secondary/10 bg-white p-6 shadow-sm"
             >
               <Quote className="h-12 w-12 text-accent/20" fill="currentColor" stroke="currentColor" />
-              <p className="text-sm text-foreground/80 sm:text-base">{item.quote}</p>
+<p className="text-sm text-gray-600 sm:text-base">{item.quote}</p>
               <div className="mt-auto pt-4">
                 <p className="text-sm font-semibold text-secondary">{item.author}</p>
                 <p className="text-xs text-accent">{item.caseType}</p>

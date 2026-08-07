@@ -65,7 +65,7 @@ export default function ContactInfoSection({ data }: ContactInfoSectionProps) {
               <a href={`tel:${phone.number.replace(/\s+/g, "")}`} className="hover:text-accent">
                 {phone.number}
               </a>
-              <p className="text-xs text-foreground/60">{phone.description}</p>
+<p className="text-xs text-gray-800">{phone.description}</p>
             </div>
           </div>
         ))}
