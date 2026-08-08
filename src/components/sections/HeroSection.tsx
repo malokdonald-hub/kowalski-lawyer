@@ -63,7 +63,7 @@ export default function HeroSection({ data }: HeroSectionProps) {
         transition={{ duration: 0.6 }}
         className="max-w-4xl mx-auto text-center px-4"
       >
-        <h1 className="font-playfair text-4xl font-bold text-secondary sm:text-5xl">
+        <h1 className="font-playfair text-4xl font-bold text-dark sm:text-5xl">
           {renderHeadline(headline, headlineHighlight)}
         </h1>
         <p className="max-w-xl mx-auto text-base text-gray-600 sm:text-lg mt-6">{subheadline}</p>
