@@ -28,7 +28,9 @@ export default function Home({ params }: { params: { lang: string } }) {
       <BenefitsSection data={home.benefits} />
       <TestimonialsSection data={home.testimonials} />
       <div className="bg-secondary border border-gray-200 rounded-lg w-full max-w-4xl mx-auto p-8 md:p-12 text-center mt-16">
-        <PricingPreviewSection data={home.pricingPreview} />
+        <PricingPreviewSection
+          data={{ ...home.pricingPreview, linkUrl: `/${params.lang}/uslugi` }}
+        />
       </div>
       <FaqSection data={home.faq} />
     </>
